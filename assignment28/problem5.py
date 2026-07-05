@@ -1,8 +1,6 @@
 #Cyber security login analysis
 s = input()
-
 count = 0
-
 for ch in s:
     if ch == 'F':
         count += 1
