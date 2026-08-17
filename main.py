@@ -3,7 +3,6 @@ Create a one package called as utlities
     calculator.py
     greetings.py
 
-    
 main.py 
 import from utilities and use them
 
