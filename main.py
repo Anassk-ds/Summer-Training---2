@@ -6,7 +6,6 @@ Create a one package called as utlities
 main.py 
 import from utilities and use them
 
-
 '''
 from Utilities.calculator import add , sub
 from Utilities.greetings import hello
