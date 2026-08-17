@@ -42,4 +42,3 @@ print(dir(math))
  #env\Scripts\Activate.ps1
  
  #set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-
