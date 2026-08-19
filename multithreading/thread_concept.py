@@ -193,7 +193,7 @@ t = threading.Thread(target = square,
 
 t.start()
 
-#to delay the threads
+#to delay the threads 
 import time
 time.sleep(3)
 
