@@ -187,4 +187,3 @@ def outer():
         print("outer")
         inner()
 outer()
- 
