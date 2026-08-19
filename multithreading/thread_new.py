@@ -4,7 +4,6 @@ join():mainthread --> owner
 
 
 
-
 '''
 import threading
 import time
