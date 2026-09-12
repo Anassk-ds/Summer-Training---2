@@ -29,7 +29,7 @@ print(dir(math))
 
 #pip ---Python package manager
 
-#1-sys
+#1-system
 #Multiple_canteen --- numpy ---1.0
 #College_library --- numpy --- 2.0
 #College_bus --- numpy --- 1.5 version
