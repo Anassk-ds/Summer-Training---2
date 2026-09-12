@@ -6,3 +6,4 @@ def highest_mark(marks):
     return max(marks)
 def lowest_mark(marks):
     return min(marks)
+    
